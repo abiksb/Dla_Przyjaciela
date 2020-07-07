@@ -7,3 +7,12 @@ Wiele już zostało zapisane. W tytule. Lecz nie wszystko. Zaledwie początek. C
 Młodości! orla twych lotów potęga,
 
 Jako piorun twoje ramię."
+
+
+
+
+https://www.programiz.com/python-programming/online-compiler/
+
+Zmień mnie w słowo. Lecz mnie tu nie ma. Jestem obok.
+
+I zakończ zdanie.
