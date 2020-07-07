@@ -1,0 +1,9 @@
+import math
+
+a = 3;
+
+b = 5;
+
+c = 4;
+
+print(math.floor((a+b^c)-8.5))
